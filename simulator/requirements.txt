@@ -1,0 +1,6 @@
+numpy
+pybind11 >= 2.6.2
+pygame
+opencv-python
+PyOpenGL
+gym
